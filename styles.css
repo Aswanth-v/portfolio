@@ -13,7 +13,7 @@
     --bg-color: #080808;
     --second-bg-color: #131313;
     --text-color: white;
-    --main-color: #00ffee;
+    --main-color: #c752dacb;
 }
 
 html {
@@ -122,7 +122,7 @@ span{
     top: 5rem;
     width: 35vw;
     border-radius: 50%;
-    box-shadow: 0 0 70px var(--main-color);
+    box-shadow: 0 0 90px var(--main-color);
     cursor: pointer;
     transition: 0.4s ease-in-out;
 }
@@ -511,7 +511,7 @@ span{
 }
 
 .work-item p {
-    font-size: 1.3rem;
+    font-size: 1.8rem;
 }
 .contact{
     background-color: var(--bg-color);
